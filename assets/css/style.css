@@ -44,3 +44,21 @@ form input{
 .cor{
     margin-bottom: 20px;
 }
+@media screen and (max-width: 1000px) {
+    form{
+        width: 80%;
+    
+}
+@media screen and (max-width: 600px) {
+    form{
+        width: 80%;
+    }
+    
+}
+@media screen and (max-width: 400px) {
+    form{
+        width: 100%;
+    }
+    
+}
+}
